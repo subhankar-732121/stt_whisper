@@ -1,4 +1,4 @@
-Audio Transcription Project
+[Audio Transcription Project
 This project uses the transformers library and OpenAI's Whisper model to transcribe audio files into text, with support for timestamps. The code is designed to run in a Google Colab environment and processes MP3 audio files.
 Prerequisites
 
@@ -90,3 +90,4 @@ FFmpeg not found: Ensure FFmpeg is installed using the provided apt-get command.
 Memory issues: If using a larger Whisper model, ensure sufficient RAM/GPU memory is available in Colab.
 
 
+](https://grok.com/share/c2hhcmQtMg%3D%3D_f886f3e8-6e8a-4333-9a3e-b0964b9fe4ea)
